@@ -1,0 +1,44 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+    border: 1px solid black;
+  }
+  .navBlock {
+    padding: 15px;
+    display: inline-block;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-family: arial;
+    border: 1px solid rgb(54, 54, 54);
+  }
+  .containerBlock {
+      display: inline-block;
+      height: 1000px;
+      font-size: 36px;
+      padding: 1px
+  }
+  .left {
+      width: 29%;
+      background-color: purple;
+      color: white;
+      float: left;
+  }
+  .right {
+      width: 70%;
+      background-color: lightgrey;
+      color: black;
+      float: right;
+  }
+  .profile {
+      width: 100%;
+      background-color:purple;
+      color: white;
+      height: 400px;
+      text-align: center;
+      font-family: arial;
+      font-size: 24px;
+      padding-top: 50px;
+  }
+
